@@ -6,7 +6,7 @@
 #include<math.h>
 #include<string.h>
 #include<vector>
-using namespace std;
+using namespace std; 
 const int BORDER = 50;
 
 class Trie{
