@@ -9,7 +9,7 @@ aals
 aardvark
 aardvarks
 aardwolf
-aardwolves
+aardwolves 
 aargh
 aarrgh
 aarrghh
