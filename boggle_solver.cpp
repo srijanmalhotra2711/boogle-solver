@@ -2,11 +2,11 @@
 #include<stdlib.h>
 #include<algorithm>
 #include<windows.h>
-#include<stdio.h>
+#include<stdio.h> 
 #include<math.h>
 #include<string.h>
 #include<vector>
-using namespace std; 
+using namespace std;
 const int BORDER = 50;
 
 class Trie{
